@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body {
+    color:white;
+    background-color: rgb(51, 48, 48);
+  }
+
+
+
+.tags{
+        background-color: saddlebrown;
+        margin-right: 0.5rem;
+        margin-top: 0.5rem;
+        padding: 3px 10px;
+        display: inline;
+        color: beige;
+        font-size: 12px;
+      
+        
+}
+}
+
+
